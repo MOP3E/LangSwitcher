@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangSwitcher", "LangSwitcher\LangSwitcher.csproj", "{08357370-A00E-4C5E-BB14-15740CD7AE3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangSwitcherLib", "LangSwitcherLib\LangSwitcherLib.csproj", "{8F19E56C-4DA1-422E-94B4-98F4DB346346}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08357370-A00E-4C5E-BB14-15740CD7AE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08357370-A00E-4C5E-BB14-15740CD7AE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08357370-A00E-4C5E-BB14-15740CD7AE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08357370-A00E-4C5E-BB14-15740CD7AE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F19E56C-4DA1-422E-94B4-98F4DB346346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F19E56C-4DA1-422E-94B4-98F4DB346346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F19E56C-4DA1-422E-94B4-98F4DB346346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F19E56C-4DA1-422E-94B4-98F4DB346346}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9710B370-08B2-4074-9322-37FC7E0AFA47}
+	EndGlobalSection
+EndGlobal
