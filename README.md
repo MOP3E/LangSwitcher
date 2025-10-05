@@ -12,4 +12,4 @@ The Language Switcher program is designed to switch the input language from the 
 Using the program allows you to get rid of the pop-up Language Panel in Windows 10.<br/>
 The program supports all three ways to switch the Windows 10 input language, collapses into the tray at startup, and can be set to autorun.<br/>
 The program can't and won't do anything superfluous.<br/>
-No installation is required. Unpack the archive to any convenient location on computer and run LangSwitcher.exe. Before using the program, it is advisable to disable keyboard hotkeys in the Windows Settings.
+No installation is required. Unpack the archive to any convenient location on computer and run "LangSwitcher.exe". Before using the program, it is advisable to disable keyboard hotkeys in the Windows Settings.
